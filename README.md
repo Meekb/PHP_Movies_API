@@ -60,8 +60,9 @@ $response[$response['response_code'] = 200 // request successful
 $response['response_code'] = 201 // resource successfully created
 $response['response_code'] = 204; // successful but no content to return (ex: delete movie)
 ```
-  * Importance of excellent documentation to ensure developers can connect to your API which includes providing 
-all endpoints and examples of the request format
+  * Documentation
+    * Importance of excellent documentation to ensure developers can connect to your API which includes providing 
+all endpoints with examples of the request format
 
 ## Tech Stack
 <table>
