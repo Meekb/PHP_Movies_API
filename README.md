@@ -1,11 +1,13 @@
 # PHP_Movies_API
-Build a Movies API with PHP and MySQL using XAMPP for the servers
+Build a Movies API with PHP and MySQL with XAMPP
 
 ## Overview
 This project is the result of completing [Udemy course PHP | Build a Complete API](https://www.udemy.com/course/create-apis-in-php/)
 
 ## What I learned
-  * How to build a complete Movies API using PHP & MySQL and XAMPP to run the servers
+  * How to build a database with MySQL using XAMPP
+<img width="1066" alt="Screen Shot 2022-01-09 at 3 07 10 PM" src="https://user-images.githubusercontent.com/76264735/148702986-82dd6267-3c2b-41a5-9890-bc58af0914ba.png">
+  
   * How to check database credentials to set up the connection
 ```php
 // database credendials
