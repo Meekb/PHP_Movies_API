@@ -44,7 +44,7 @@ $conn = mysqli_connect($server_name,$mysql_username,$mysql_password,$db_name);
     HTTP Method: POST, Endpoint: create_movie.php
     ```
   * Testing endpoints
-    * How to test the Create, Delete, and Update (example below) endpoints
+    * How to test the Create, Delete, and Update (example below) endpoints using test.html files
 ```html
 <form method="POST" action="http://localhost:8000/update_movie.php">
   <input type="text" name="id" value="1"/>
