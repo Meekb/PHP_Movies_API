@@ -1,5 +1,5 @@
 # PHP_Movies_API
-Build a Movies API with PHP and MySQL with XAMPP
+Build a Movies API with PHP & MySQL with XAMPP
 
 ## Overview
 This project is the result of completing [Udemy course PHP | Build a Complete API](https://www.udemy.com/course/create-apis-in-php/)
