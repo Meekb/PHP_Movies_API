@@ -17,8 +17,6 @@ if (!$conn) {
   echo '{"message":"Unable to connect to database"}';
   die();
 }
-
-
 /*
 GOALS:
 1. GET all movies or a single movie
@@ -26,5 +24,4 @@ GOALS:
 3. PUT or update a movie already in the database
 4. DELETE a movie from the database
 */
-
 ?>

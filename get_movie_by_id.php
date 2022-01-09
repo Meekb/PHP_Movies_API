@@ -44,7 +44,6 @@ if (isset($_GET['id'])) {
     $response['message'] = "we could not get the movie";
     $response['response_code'] = 400; // 400 bad request
   }
-
 } else {
   // no movie title was provided, so we can't get the movie - response with error and message
   $response['error'] = true;

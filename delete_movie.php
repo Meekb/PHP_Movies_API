@@ -22,7 +22,6 @@ if ( isset($_POST['id']) ) {
     $response['message'] = "failed to remove movie";
     $response['response_code'] = 400;
   }
-
 } else {
   // we cannot delete the movie because we dont know which movie to delete
     $response['error'] = true;
