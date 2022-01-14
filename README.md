@@ -35,11 +35,11 @@ $conn = mysqli_connect($server_name,$mysql_username,$mysql_password,$db_name);
       ```
     * Update a movie already in the database
     ```php
-    HTTP Method: PUT, Endpoint: update_movie.php?id={id}
+    HTTP Method: POST, Endpoint: update_movie.php?id={id}
     ```
     * Delete a movie from the database
     ```php
-    HTTP Method: DELETE, Endpoint: delete_movie.php?id={id}
+    HTTP Method: POST, Endpoint: delete_movie.php?id={id}
     ```
     * Create/Insert a new movie to the database
     ```php
